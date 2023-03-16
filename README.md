@@ -1,5 +1,6 @@
 # Ed Rivas: Blog
 
+[![Lint & Build](https://github.com/jerivas/blog/actions/workflows/ci.yml/badge.svg)](https://github.com/jerivas/blog/actions/workflows/ci.yml)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/db73abe4-679b-427a-8a02-5f019471dfbe/deploy-status)](https://app.netlify.com/sites/jerivas-blog/deploys)
 [![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
 
@@ -27,8 +28,8 @@ Now start Pelican in reload and listen mode:
 pelican --autoreload --listen
 ```
 
-Visit http://localhost:8000. The site will be re-built when you save changes to
-files inside `content/`. Changing the settings might require a manual server
+Visit <http://localhost:8000>. The site will be re-built when you save changes
+to files inside `content/`. Changing the settings might require a manual server
 restart.
 
 Finally, open a pull request from your fork. Netlify will generate a preview
