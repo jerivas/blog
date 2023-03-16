@@ -1,0 +1,13 @@
+{
+    "mode": {
+        "strict-config": true
+    },
+    "extensions": {
+        "linter-pragmas": {
+            "enabled": true
+        },
+        "front-matter": {
+            "enabled": true
+        }
+    }
+}

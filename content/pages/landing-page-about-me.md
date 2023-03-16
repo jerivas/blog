@@ -14,6 +14,7 @@ respect and help people flourish.
 
 Here are some useful links:
 
+<!-- markdownlint-disable MD033 -->
 <ul class="inline" style="margin-block-end: 2rem">
     <li><a href="/feeds/all.atom.xml">RSS</a></li>
     <li><a href="https://twitter.com/je92rivas">Twitter</a></li>
@@ -22,3 +23,4 @@ Here are some useful links:
     <li><a href="https://pypi.org/user/jerivas/">PyPI</a></li>
     <li><a href="https://calendly.com/jerivas">Calendar</a></li>
 </ul>
+<!-- markdownlint-enable MD033 -->
