@@ -1,6 +1,7 @@
 # Ed Rivas: Blog
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/db73abe4-679b-427a-8a02-5f019471dfbe/deploy-status)](https://app.netlify.com/sites/jerivas-blog/deploys)
+[![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
 
 This blog is brought to you by
 [Pelican](https://docs.getpelican.com/en/4.8.0/index.html): a static site
