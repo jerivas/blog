@@ -2,7 +2,7 @@
 author: Ed Rivas
 title: Hi, thanks for visiting!
 layout: page
-date: 2019-01-14 7:30:47 +0100
+date: 2023-03-16
 status: hidden
 slug: landing-page-about-hidden
 ---
