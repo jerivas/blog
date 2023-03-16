@@ -33,4 +33,7 @@ DEFAULT_PAGINATION = 10
 PATH_METADATA = '(?P<path_no_ext>.*)\..*'
 ARTICLE_URL =  PAGE_URL = '{path_no_ext}'
 ARTICLE_SAVE_AS =  PAGE_SAVE_AS = '{path_no_ext}/index.html'
+CATEGORY_URL = 'category/{slug}'
+CATEGORY_SAVE_AS = 'category/{slug}/index.html'
+TAG_SAVE_AS = AUTHOR_SAVE_AS = ''
 USE_FOLDER_AS_CATEGORY = False
