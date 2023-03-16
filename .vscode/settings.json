@@ -4,7 +4,9 @@
     "python.formatting.provider": "black",
     "python.linting.enabled": true,
     "editor.formatOnSave": true,
+    "editor.tabSize": 2,
     "[python]": {
+        "editor.tabSize": 4,
         "editor.codeActionsOnSave": {
             "source.organizeImports": true
         }
@@ -17,5 +19,5 @@
             "strings": "off",
             "other": "off"
         },
-    }
+    },
 }
